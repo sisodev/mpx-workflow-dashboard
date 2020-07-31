@@ -1,0 +1,1 @@
+export const STAGES = ["ingestion", "transcoding", "storage", "authorization", "metadata", "selector", "entitlement"];
